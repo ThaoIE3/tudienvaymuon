@@ -1,0 +1,4 @@
+Cách 1 : built và chạy trực tiếp trong netbean hoặc eclise
+
+Cách 2 : Built file jar (Shift + F11) sau đó chép file loanword.dat
+vào thư mục JavaProjectDictionary/dist. cuối cùng chạy file jar.
